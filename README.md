@@ -13,4 +13,4 @@ Video explicando o funcionamento do sistema: https://bit.ly/desafio-ibm
 </ol>
 
 <h2>Arquitetura de Fluxo dos Processos</h2>
-![alt text](src/main/resources/arquitetura_desafio_ibm.jpg)
+<img src="https://raw.githubusercontent.com/antoniogabrielti/sincronizacaoreceita/master/src/main/resources/arquitetura_desafio_ibm.jpg">
